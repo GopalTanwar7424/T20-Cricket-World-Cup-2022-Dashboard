@@ -52,4 +52,4 @@ The dataset includes:
 
 ## 6. Screenshots / Demos
 
-![Dashboard Preview](GopalTanwar7424/T20-Cricket-World-Cup-2022-Dashboard )
+![Dashboard Preview](https://github.com/GopalTanwar7424/T20-Cricket-World-Cup-2022-Dashboard/blob/main/T20%20cricket%20worldcup.png)
