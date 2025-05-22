@@ -24,5 +24,32 @@ The dataset includes:
 - `bowling_summary.csv`
 - `player_summary.csv`
 
-## 5. Features / Highlights  
-*(You can write your dashboard highlights here...)*
+## 5. Features / Highlights
+
+- 📊 **Interactive Performance Tracking**  
+  View individual and team performance metrics with drill-down capabilities across matches.
+
+- 🏏 **Detailed Player Insights**  
+  Analyze batting averages, strike rates, bowling economy, and player roles (batsman, bowler, all-rounder, etc.).
+
+- 🔁 **Dynamic Filtering**  
+  Use slicers to filter data by team, player, match, or date for custom analyses.
+
+- 🌐 **Match Summary Overview**  
+  Access high-level summaries of each match, including total runs, wickets, and standout performers.
+
+- 📈 **Comparative Analysis**  
+  Compare performances of players across teams and matches using interactive bar charts and KPIs.
+
+- 🔍 **Top Performer Dashboards**  
+  Identify top batsmen and bowlers based on selected metrics like strike rate, average, wickets, and runs.
+
+- 🧩 **Data Relationships**  
+  Seamless navigation between related tables (match_summary, player_summary, etc.) using data modeling techniques.
+
+- 💡 **Clean and Intuitive Design**  
+  Professionally styled visuals and tooltips for enhanced user experience and decision-making support.
+
+## 6. Screenshots / Demos
+
+![Dashboard Preview]()
