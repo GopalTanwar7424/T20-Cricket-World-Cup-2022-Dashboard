@@ -54,3 +54,5 @@ The dataset includes:
 
 ![Dashboard Preview](https://github.com/GopalTanwar7424/T20-Cricket-World-Cup-2022-Dashboard/blob/main/T20%20cricket%20worldcup.png)
 ![Player Analysis](https://github.com/GopalTanwar7424/T20-Cricket-World-Cup-2022-Dashboard/blob/main/player-analysis.png)
+![Power Hitters](https://github.com/GopalTanwar7424/T20-Cricket-World-Cup-2022-Dashboard/blob/main/power-hitters.png)
+![Final 12](
